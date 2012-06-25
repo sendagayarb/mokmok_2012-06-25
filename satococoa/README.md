@@ -2,4 +2,10 @@
 * RubyMotion + AFNetworking + ElementParser でHTMLのパースします
 
 # もくもくの記録
-今日できたこと、今日学んだ事、ハマったことなどの軸で記録
+* 簡単なブラウザの実装が終わった
+* AFNetworkingを使ってHTMLの取得ができた
+* 正規表現で画像のURLを抜き出せた
+
+## 困ったこと
+* 本当は正規表現ではなくHTMLのパーサを使って画像URLを抜き出したいが
+  HTMLのようなinvalidな文書をObjective-Cでパースする方法がわからなかった。
