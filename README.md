@@ -1,4 +1,4 @@
-mokmok_yyyy-mm-dd
+mokmok_2012-06-25
 =================
 
 ![sendagaya.rb logo](http://ppworks.info/images/sendagayarb100x100.png)
@@ -7,7 +7,7 @@ mokmok_yyyy-mm-dd
 毎回はじまる30分前にheroku devcenterの読書会もしようと思ってます。
 
 * [Sendagaya.rb公式サイト](http://sendagayarb.github.com)
-* [Sendagaya.rb # - Zussar](http://www.zusaar.com/event/)
+* [Sendagaya.rb #9 - Zussar](http://www.zusaar.com/event/319002)
 
 # 流れ
 * 19:00 Heroku Dev Center読書会
