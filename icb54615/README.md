@@ -1,9 +1,19 @@
 #【モクモクテーマ】モクモクすることを書く
-* 自己紹介
-http://hirotaka.me/about
 * 木曜のHeroku Meetupのスライド作成
 
 # もくもくの記録
 ## 今日できたこと
+### 他のユーザ会がどんなことをしているのかの調査
+* AWS ユーザーグループ – 東京（JAWS-UG）
+* Japan Windows Azure User Group
+
+### どんなことやるのか？の検討
+* Facebookグループでの質問や情報交換
+* ハンズオンを中心とした勉強会？
+* 勉強会するとなると会場とか？KDDI(http://www.cloudcore.jp/vps/develop/)。競合だから微妙？
+
 ## 今日学んだ事
+* ユーザ会の活動など
+
 ## ハマったことなどの軸で記録
+
