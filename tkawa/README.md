@@ -7,7 +7,8 @@
 ## 7/23のURL設計勉強会用のネタ考える
 
 > でも「そんなのどうでもいい」っていう人も多いと思うので、具体的なメリットと結びつけて語れればな、と思っています。とりあえずRailsに限っても、メリットはたくさんあるはず
-http://twitter.com/tkawa/status/217139844453896193
+
+> http://twitter.com/tkawa/status/217139844453896193
 
 ### はじめに
 
@@ -70,8 +71,21 @@ has_many や親リソースの一部(partial resource)は子リソースにな�
 
 / で区切った場合、必ず上にたどれないといけない。
 
-followsなど
+followsとpostsの違い。
+/user/
 
 
 #### /username を使いたい。
 
+
+### 参考文献
+日本語の2冊。
+
+* Webを支える技術
+* RESTful Webサービス
+
+英語の3冊。どれがいいかはあとで書く
+
+* RESTful Web Services Cookbook
+* REST API Design Rulebook
+* REST in Practice
