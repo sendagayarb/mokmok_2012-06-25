@@ -25,6 +25,8 @@ mokmok_2012-06-25
   * ポジションペーパー:http://kitbc.s41.xrea.com/main/
 * satococoa
   * ポジションペーパー？: http://satococoa.github.com/
+* kei_q
+  * ポジションペーパー: https://gist.github.com/3fea8dcb2689dcd1ba98
 
 # 質問したいこと
 - 例)業務でこんなことやるんだけど誰か知ってる？
