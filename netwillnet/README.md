@@ -3,4 +3,8 @@
     * ユーザの昨日のツイート内容をDBに入れるあたり作ります
 
 # もくもくの記録
-今日できたこと、今日学んだ事、ハマったことなどの軸で記録
+
+ハマりました。検証を下記に書きました
+
+https://github.com/willnet/ruby-exercise/tree/master/autoload
+
