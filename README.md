@@ -29,6 +29,8 @@ mokmok_2012-06-25
   * ポジションペーパー: https://gist.github.com/3fea8dcb2689dcd1ba98
 * iR3
   * ポジションペーパー(かなり昔の):http://goo.gl/qS13y
+* netwillnet
+  * ポジションペーパー？: http://willnet.in/
 
 # 質問したいこと
 - 例)業務でこんなことやるんだけど誰か知ってる？
