@@ -23,6 +23,8 @@ mokmok_2012-06-25
   * ポジションペーパー:http://ppworks.info
 * fukajun[すたっふぅー]
   * ポジションペーパー:http://kitbc.s41.xrea.com/main/
+* satococoa
+  * ポジションペーパー？: http://satococoa.github.com/
 
 # 質問したいこと
 - 例)業務でこんなことやるんだけど誰か知ってる？
