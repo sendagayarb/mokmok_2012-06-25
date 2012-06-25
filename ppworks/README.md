@@ -30,3 +30,58 @@
     * /posts
     * /posts.json (jsライブラリ側でsuffix付ける)
     * /api/posts (scopeだけ切る)
+    * Varyを吐くといいかも http://sonic64.com/2004-02-06.html 
+
+
+## 議論の結果
+
+### フォローユーザーを表す
+全体のresourcesが意味を成さないパターン
+
+* /follows
+    * own resources
+    * GET
+    * POST
+    * DELETE
+
+* /my/follows
+    * own resources
+    * GET
+    * POST
+    * DELETE
+
+* /follows と /my/follows が同じ内容を返しても良い
+* どっちでも良いのでは?
+
+### 投稿内容を表す
+
+* /posts
+    * all resources
+    * GET
+    * POST
+    * DELETE
+* /my/posts
+    * own resources
+* /users/:user_id/posts
+    * user's resources
+* /my/follows/posts
+    * my following's posts
+* /posts/latest
+    * latest posts
+* /my/bookmarks/posts
+    * my bookmarked posts
+
+## ホワイトボードの図
+
+![url 設計たたき台](https://github.com/sendagayarb/mokmok_2012-06-25/raw/master/ppworks/sendagaya_restful2012-06-25.jpg)
+
+
+
+
+
+
+
+
+
+
+
